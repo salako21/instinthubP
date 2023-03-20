@@ -30,3 +30,11 @@ var variables = Number(numb1) + Number(numb2);
 alert("The Score is " + variables);
 
 
+log(parseFloat(numb1));
+log(parseFloat(numb2));
+
+console.log(number(numb1) + number(numb2));
+console.log(number(numb1) - number(numb2));
+console.log(number(numb1) * number(numb2));
+console.log(number(numb1) / number(numb2));
+console.log(number(numb1) % number(numb2));
